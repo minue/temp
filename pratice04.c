@@ -6,7 +6,7 @@ int main(void){
     char str1[32], str2[32];
 
     scanf("%d", &m);
-    scanf("%f%g", &x, &y);
+    scanf("%f%f", &x, &y);
     scanf("%s %s", str1, str2);
     scanf("%*s%*c%d", &n);
 
